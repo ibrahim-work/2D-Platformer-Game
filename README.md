@@ -1,2 +1,2 @@
 # 2D-Platformer-Game
-This game involve a user-controlled character/avatar that navigates a two-dimensional world, typically filled with obstacles, challenges, and platforms. The primary objective is to reach a goal or complete a level.
+This 2D Platformer game is built using HTML, JavaScript, and CSS. It offers an engaging gaming experience where players control a dog character using arrow keys to run, jump, and explore a world typically filled with obstacles, challenges, and platforms. The primary objective is to reach a goal or complete a level. While still under active development, the core gameplay is fully functional, allowing players to control the dog character with responsive movements.
