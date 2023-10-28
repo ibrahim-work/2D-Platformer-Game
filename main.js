@@ -1,3 +1,5 @@
+// Inspired by: Franks Laboratory JavaScript Course
+
 import { Player } from "./player.js";
 import { InputHandler } from "./input.js";
 import { Background } from "./background.js";
